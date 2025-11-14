@@ -14,7 +14,7 @@ Early detection of breast cancer can increase survival rates by **up to 90%**. T
 ## 🚀 Features  
 - End-to-end ML pipeline (preprocess → train → evaluate → deploy)  
 - **99.1% accuracy**, **0.98 AUC-ROC**  
-- Interactive **Streamlit web app** (upload CSV or enter values)  
+- Interactive **Streamlit web app** 
 - Model explanations with **SHAP values**  
 - One-click Docker deployment  
 
