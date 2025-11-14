@@ -1,9 +1,6 @@
 # Breast Cancer Prediction – Logistic Regression  
 **99.1% accuracy** on the UCI Breast Cancer Wisconsin dataset using scikit-learn.
 
-![Demo](demo/prediction_screenshot.png)  
-*Live Streamlit demo: [https://breast-cancer-predictor.streamlit.app](https://breast-cancer-predictor.streamlit.app)*
-
 ---
 
 ## 📊 Problem  
@@ -35,6 +32,3 @@ Early detection of breast cancer can increase survival rates by **up to 90%**. T
 | Pandas, NumPy | Data wrangling |
 | Scikit-learn | Logistic Regression + metrics |
 | Matplotlib/Seaborn | EDA plots |
-| SHAP | Model interpretability |
-| Streamlit | Web dashboard |
-| Docker | Containerization |
